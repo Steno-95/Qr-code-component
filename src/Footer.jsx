@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div className="text-center text-[11px] md:text-[15px] ">
+    <footer className="text-center text-[11px] md:text-[15px] ">
       Challenge by{" "}
       <a
         className="text-blue-950"
@@ -14,7 +14,7 @@ function Footer() {
         Stefano Lezzi
       </a>
       .
-    </div>
+    </footer>
   );
 }
 

@@ -1,8 +1,8 @@
 function AppLayout({ children }) {
   return (
-    <div className="bg-slate-300 h-11/12 flex items-center justify-center">
+    <main className="bg-slate-300 h-full flex items-center justify-center">
       {children}
-    </div>
+    </main>
   );
 }
 
