@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+body {
+  font-size: clamp(0.8em, 0.4em + 1.5vh, 3em);
+}
